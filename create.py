@@ -169,11 +169,11 @@ return
 <br>
 <br>
 <br>
-<iframe width="0" height="0" src="http://www.youtube.com/v/"""
+<iframe width="0" height="0" scrolling="no" frameborder="no" allow="autoplay" src=""https://api.soundcloud.com/tracks/"""
 
 messagescript15 = soundcloud
 
-messagescript16 = https://api.soundcloud.com/tracks/"""/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
+messagescript16 = """/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
 
 
 fo.write(messagescript1)
