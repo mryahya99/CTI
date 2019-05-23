@@ -57,7 +57,7 @@ print "COPY LALU PASTE OK !!!"
 
 
 
-bgimage = raw_input("link gambar (background): ")}
+bgimage = raw_input("link gambar (background): ")
 print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
 print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
 print "https://i.gifer.com/embedded/download/3rCL.gif"
@@ -85,7 +85,7 @@ print "BLACK"
 Soundcloud = raw_input("ambil codenya (MUSIK): ")
 print "CONTOH"
 print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
-print "_________________________________|         |_________________________________
+print "_________________________________|         |_________________________________"
 
 #Open the index
 fo = open("script.html","w")
