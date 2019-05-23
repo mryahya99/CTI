@@ -195,7 +195,7 @@ fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
 print "Cara Save : $ls"
-print " selanjutnya mv -f nama.html /sdcard"
+print "selanjutnya mv -f nama.html /sdcard"
 print "cari langsung di internal sesuai nama "
 	
 
