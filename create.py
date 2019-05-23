@@ -1,7 +1,5 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
-#######################
 mess = """=========================================
 			CreateDeface
                     CyberTrojanIndonesia
