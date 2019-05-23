@@ -2,11 +2,11 @@
 #######################
 #  http://fb.com/ubaii.id.9  #
 #######################
-mess = """║▌║▌║█│▌==========================================
-		]|I{•------»   🎀  CreateDefacer𝑒𝒶𝓉🍩𝓇  🎀   »------•{I|    
-                       CyberTrojanIndonesia
-				       Black Cyber Indonesia
-=============================================▌│█║▌║▌║"""
+mess = """=========================================
+			CreateDeface
+                    CyberTrojanIndonesia
+		    Black Cyber Indonesia
+============================================="""
 
 print mess
 print "Created Defacer ^_^"
@@ -18,7 +18,7 @@ print "BLACK-CYBER-ANONIM"
 print "FIGHTER OFC BCA"
 print "CyberTrojanIndonesia"
 print "FIGHTER OFC CTI"
-_______________________________________"
+print "_______________________________________"
 
 
 
