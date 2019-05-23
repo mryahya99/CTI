@@ -40,7 +40,7 @@ print "____________SELAMAT MENCOBA_____________"
 
 
 title = raw_input("Judul title: ")
-print "contoh=Äñðñ¥m§h@¢k"
+print "BEBAS"
 
 
 heading = raw_input("Hacked by: ")
