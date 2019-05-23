@@ -1,9 +1,16 @@
 #!/usr/bin/python
 
 mess = """=========================================
-			CreateDeface
-                    CyberTrojanIndonesia
-		    Black Cyber Indonesia
+			  ______   __    __  __    __      __         ______   ________  ______         ______   __    __  _______         _______    ______    ______  
+ /      \ /  \  /  |/  |  /  \    /  |       /      \ /        |/      |       /      \ /  \  /  |/       \       /       \  /      \  /      \ 
+/$$$$$$  |$$  \ $$ |$$ |  $$  \  /$$/       /$$$$$$  |$$$$$$$$/ $$$$$$/       /$$$$$$  |$$  \ $$ |$$$$$$$  |      $$$$$$$  |/$$$$$$  |/$$$$$$  |
+$$ |  $$ |$$$  \$$ |$$ |   $$  \/$$/        $$ |  $$/    $$ |     $$ |        $$ |__$$ |$$$  \$$ |$$ |  $$ |      $$ |__$$ |$$ |  $$/ $$ |__$$ |
+$$ |  $$ |$$$$  $$ |$$ |    $$  $$/         $$ |         $$ |     $$ |        $$    $$ |$$$$  $$ |$$ |  $$ |      $$    $$< $$ |      $$    $$ |
+$$ |  $$ |$$ $$ $$ |$$ |     $$$$/          $$ |   __    $$ |     $$ |        $$$$$$$$ |$$ $$ $$ |$$ |  $$ |      $$$$$$$  |$$ |   __ $$$$$$$$ |
+$$ \__$$ |$$ |$$$$ |$$ |_____ $$ |          $$ \__/  |   $$ |    _$$ |_       $$ |  $$ |$$ |$$$$ |$$ |__$$ |      $$ |__$$ |$$ \__/  |$$ |  $$ |
+$$    $$/ $$ | $$$ |$$       |$$ |          $$    $$/    $$ |   / $$   |      $$ |  $$ |$$ | $$$ |$$    $$/       $$    $$/ $$    $$/ $$ |  $$ |
+ $$$$$$/  $$/   $$/ $$$$$$$$/ $$/            $$$$$$/     $$/    $$$$$$/       $$/   $$/ $$/   $$/ $$$$$$$/        $$$$$$$/   $$$$$$/  $$/   $$/ 
+                                                                                                                                                a
 ============================================="""
 
 print mess
@@ -31,16 +38,16 @@ print " ____________             ______________"
 print "____________SELAMAT MENCOBA_____________"
 
 
-print "title = raw_input( Judul title: ")
+print "title "
 print "BEBAS"
 
 
-print "heading = raw_input( Hacked by: ")
+print "heading "
 print "contoh=Mr.DarkSky"
 
 
 
-print "imagelink = raw_input( link gambar (tengah): ")
+print "imagelink" 
 print "Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
 print "https://i.ibb.co/6DBMgrY/20190514-174726.png"
 print "https://i.ibb.co/rZSdrQT/20190514-173657.png"
@@ -49,7 +56,7 @@ print "COPY LALU PASTE OK !!!"
 
 
 
-print "bgimage = raw_input(link gambar (background): ")
+print "bgimage "
 print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
 print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
 print "https://i.gifer.com/embedded/download/3rCL.gif"
@@ -58,12 +65,12 @@ print "COPY LALU PASTE OK !!!"
 
 
 
-print "message = raw_input(Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+print "message "
 print "Nah ini Terserah anda ....!!!!"
 
 
 
-print "textcolor = raw_input ( Warna text : ")
+print "textcolor "
 print "CONTOH "
 print "RED"
 print "GREEN"
@@ -74,7 +81,7 @@ print "BLACK"
 
 
 
-print "Soundcloud = raw_input( ambil codenya (MUSIK): ")
+print "Soundcloud"
 print "CONTOH"
 print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "_________________________________|         |_________________________________"
