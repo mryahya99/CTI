@@ -10,19 +10,82 @@ mess = """║▌║▌║█│▌==========================================
 
 print mess
 print "Created Defacer ^_^"
-print
-print 
-print 
-print 
-print
-title = raw_input("Judul title: ")
-heading = raw_input("Hacked by: ")
-imagelink = raw_input("link gambar (tengah): ")
-bgimage = raw_input("link gambar (background): ")
-message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("Warna text (contoh=green): ")
-youtubeid = raw_input("youtube kode (MUSIK): ")
 
+
+print "============================="
+print "SUPPORT"
+print "BLACK-CYBER-ANONIM"
+print "FIGHTER OFC BCA"
+print "CyberTrojanIndonesia"
+print "FIGHTER OFC CTI"
+_______________________________________"
+
+
+
+
+print "Version:"
+print "	       1.3"
+print "________________________________________"
+
+
+
+
+print " MR.KITSUNE"
+print " MR.JHON"
+print " MR.BOY"
+print " MR.DARKSKY"
+print " MR.MISTER-BLACK"
+print " ____________             ______________"
+print "____________SELAMAT MENCOBA_____________"
+
+
+title = raw_input("Judul title: ")
+print "contoh=Äñðñ¥m§h@¢k"
+
+
+heading = raw_input("Hacked by: ")
+print "contoh=Mr.DarkSky"
+
+
+
+imagelink = raw_input("link gambar (tengah): ")
+print "Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
+print "https://i.ibb.co/6DBMgrY/20190514-174726.png"
+print "https://i.ibb.co/rZSdrQT/20190514-173657.png"
+print "https://i.ibb.co/bgr86Ct/20190514-173452.png"
+print "COPY LALU PASTE OK !!!"
+
+
+
+bgimage = raw_input("link gambar (background): ")}
+print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
+print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
+print "https://i.gifer.com/embedded/download/3rCL.gif"
+print "http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
+print "COPY LALU PASTE OK !!!"
+
+
+
+message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+print "Nah ini Terserah anda ....!!!!"
+
+
+
+textcolor = raw_input("Warna text (contoh=green): ")
+print "CONTOH "
+print "RED"
+print "GREEN"
+print "CYAN"
+print "BLUE"
+print "WHITE"
+print "BLACK"
+
+
+
+Soundcloud = raw_input("ambil codenya (MUSIK): ")
+print "CONTOH"
+print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
+print "_________________________________|         |_________________________________
 
 #Open the index
 fo = open("script.html","w")
@@ -108,9 +171,9 @@ return
 <br>
 <iframe width="0" height="0" src="http://www.youtube.com/v/"""
 
-messagescript15 = youtubeid
+messagescript15 = soundcloud
 
-messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
+messagescript16 = https://api.soundcloud.com/tracks/"""/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
 
 
 fo.write(messagescript1)
@@ -134,6 +197,6 @@ print "Script Berhasil Di buat!"
 print "Cara Save : $ls"
 print " selanjutnya mv -f nama.html /sdcard"
 print "cari langsung di internal sesuai nama "
-
+	
 
 fo.close()
