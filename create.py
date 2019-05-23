@@ -31,16 +31,16 @@ print " ____________             ______________"
 print "____________SELAMAT MENCOBA_____________"
 
 
-title = raw_input("Judul title: ")
+print "title = raw_input( Judul title: ")
 print "BEBAS"
 
 
-heading = raw_input("Hacked by: ")
+print "heading = raw_input( Hacked by: ")
 print "contoh=Mr.DarkSky"
 
 
 
-imagelink = raw_input("link gambar (tengah): ")
+print "imagelink = raw_input( link gambar (tengah): ")
 print "Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
 print "https://i.ibb.co/6DBMgrY/20190514-174726.png"
 print "https://i.ibb.co/rZSdrQT/20190514-173657.png"
@@ -49,7 +49,7 @@ print "COPY LALU PASTE OK !!!"
 
 
 
-bgimage = raw_input("link gambar (background): ")
+print "bgimage = raw_input(link gambar (background): ")
 print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
 print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
 print "https://i.gifer.com/embedded/download/3rCL.gif"
@@ -58,12 +58,12 @@ print "COPY LALU PASTE OK !!!"
 
 
 
-message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+print "message = raw_input(Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 print "Nah ini Terserah anda ....!!!!"
 
 
 
-textcolor = raw_input("Warna text (contoh=green): ")
+print "textcolor = raw_input ( Warna text : ")
 print "CONTOH "
 print "RED"
 print "GREEN"
@@ -74,11 +74,26 @@ print "BLACK"
 
 
 
-Soundcloud = raw_input("ambil codenya (MUSIK): ")
+print "Soundcloud = raw_input( ambil codenya (MUSIK): ")
 print "CONTOH"
 print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "_________________________________|         |_________________________________"
 
+ print " _______       _____ _____   _______ _    _ _______ ____  _____  _____          _  "    
+ print "|__   __|/\   |  __ \_   _| |__   __| |  | |__   __/ __ \|  __ \|_   _|   /\   | |    " 
+ print "   | |  /  \  | |  | || |      | |  | |  | |  | | | |  | | |__) | | |    /  \  | |     "
+ print "   | | / /\ \ | |  | || |      | |  | |  | |  | | | |  | |  _  /  | |   / /\ \ | |     "
+ print "   | |/ ____ \| |__| || |_     | |  | |__| |  | | | |__| | | \ \ _| |_ / ____ \| |____ "
+ print "   |_/_/    \_\_____/_____|    |_|   \____/   |_|  \____/|_|  \_\_____/_/    \_\______|"
+
+title = raw_input("Judul title: ")
+heading = raw_input("Hacked by: ")
+imagelink = raw_input("link gambar (tengah): ")
+bgimage = raw_input("link gambar (background): ")
+message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
+textcolor = raw_input("Warna text (contoh=green): ")
+youtubeid = raw_input("youtube kode (MUSIK): ")
+                                                                                                                                                                             
 #Open the index
 fo = open("script.html","w")
 
