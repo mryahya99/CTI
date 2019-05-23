@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#######################
+
 mess = """=========================================
 			CreateDeface
                     CyberTrojanIndonesia
@@ -18,15 +18,9 @@ print "CyberTrojanIndonesia"
 print "FIGHTER OFC CTI"
 print "_______________________________________"
 
-
-
-
 print "Version:"
 print "	       1.3"
 print "________________________________________"
-
-
-
 
 print " MR.KITSUNE"
 print " MR.JHON"
@@ -198,3 +192,7 @@ print "cari langsung di internal sesuai nama "
 	
 
 fo.close()
+
+
+
+
