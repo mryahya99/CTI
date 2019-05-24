@@ -26,6 +26,8 @@ print "\033[0m 1;36;40m  Created Defacer ^_^"
 
 
 
+print mess
+print "Created by Ubaii ID"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
@@ -33,11 +35,12 @@ bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 textcolor = raw_input("Warna text (contoh=green): ")
 youtubeid = raw_input("youtube kode (MUSIK): ")
-                                                                                                                                                                             
+
+
 #Open the index
 fo = open("script.html","w")
 
-messagescript1 = """<html><head><title> 
+messagescript1 = """<html><head><title>"""
 
 messagescript2 = title
 
@@ -53,7 +56,7 @@ messagescript4 = bgimage
 
 messagescript5 = """><div class='CenterDiv'>
 <center>
-<h1><center><font color=\"red\"face=Orbitron>"""
+<h1><center><font color=\"red\" face=Orbitron>"""
 
 messagescript6 = heading
 
@@ -116,11 +119,11 @@ return
 <br>
 <br>
 <br>
-<iframe width="0" height="0" scrolling="no" frameborder="no" allow="autoplay" src=""https://api.soundcloud.com/tracks/"""
+<iframe width="0" height="0" src="http://www.youtube.com/v/"""
 
-messagescript15 = soundcloud
+messagescript15 = youtubeid
 
-messagescript16 = """/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
+messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
 
 
 fo.write(messagescript1)
@@ -139,7 +142,6 @@ fo.write(messagescript13)
 fo.write(messagescript14)
 fo.write(messagescript15)
 fo.write(messagescript16)
-
 print "Script Berhasil Di buat!"
 print "Cara Save : $ls"
 print "selanjutnya mv -f nama.html /sdcard"
