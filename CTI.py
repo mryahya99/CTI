@@ -745,3 +745,5 @@ print "\033[31m selanjutnya mv -f nama.html /sdcard"
 print "\033[0;1m cari langsung di internal sesuai nama "
 
 fo.close()
+
+
