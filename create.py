@@ -653,7 +653,7 @@ setInterval(flicker, 100);
 
 </script>
 <link rel="openid.server" href="https://ibb.co/bXDyfvY" />
-<head>
+<center>
 <h1>"""
 
 messagescript10 = """ </h1>
@@ -669,43 +669,11 @@ var texte=\"<br><br><br><br><br><font face=Orbitron color="""
 
 messagescript13 = textcolor
 
-messagescript14 = """ size=4>"""
+messagescript14 = """ <font face="Segoe Script" color="gold" font size="2">"""
 
 messagescript15 = message 
 
-messagescript16 = """<br><br></font><br></b></div>\"
-var ie = (document.all);
-var ne = (document.layers); 
-function init(){
-texteNE='';
-machine_a_ecrire();
-}
-function machine_a_ecrire(){
-texteNE=texteNE+texte.charAt(i)
-affiche='<font face=Orbitron size=1 color=#ffffff><strong>Messenge : '+texteNE+'</strong></font>'
-if (texte.charAt(i)=="<") {
-j=1
-}
-if (texte.charAt(i)==">") {
-j=0
-}
-if (j==0) {
-if (document.getElementById) { // avec internet explorer
-document.getElementById("bulle").innerHTML = affiche;
-}
-}
-if (i<texte.length-1){
-i++
-setTimeout("machine_a_ecrire()",70)
-}
-else
-return
-}
-</script><font face="Orbitron" size="1"><blink><span style="color: rgb(255, 255, 255);"><b><font color=lime size=4></font></b></u></blink><br></font></b>
-<a href="/index.php"><img style="position:fixed;bottom:0px;z-index:1000;right:-10px;"  src="http://static1.squarespace.com/static/5706c12007eaa0b82399660d/5706c68bf0bc33987cae6c71/577d5c5d37c581fd0e25c10b/1469717705608/insult-145142_1280.png" type="image/gif" width="150"></a></body>
-<!-- CSS --><style>
-.CenterDiv{width:650px;border:1px #ff0000 solid;padding:5px;margin:0px auto; background: url('http://i.imgur.com/sDbaMsW.gif');}
-</style>
+messagescript16 = """<b></font></center>
 <br>
 <br>
 <br>
