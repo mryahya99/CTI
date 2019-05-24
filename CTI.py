@@ -179,7 +179,7 @@ bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 matrix = raw_input ("masukan contoh (Http://terserahanda.com")
 textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
-SoundCloud = raw_input("masukan kode soundcloudnya Contoh{https://api.soundcloud.com/tracks/298052134/<---NOMERNYA}: ")
+SoundCloud = raw_input("masukan kode soundcloudnya Contoh(/tracks/298052134/<---NOMERNYA): ")
 
 
 #Open the index
@@ -662,6 +662,7 @@ messagescript10 = """ </h1>
 <div id="matrix" class="auto-style9">"""
 messagescript11 = matrix
 
+
 messagescript12 ="""</div><br>
 <script language=\"JavaScript\">
 var i=0
@@ -750,10 +751,4 @@ print "LO KIRA GAMPANG BUATNYA ?"
 print "SUSAH BROO"
 print "FUCK YANG NYEBAR BIADAB ^_^"
 
-	
-
 fo.close()
-
-
-
-
