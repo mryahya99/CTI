@@ -738,11 +738,10 @@ fo.write(messagescript16)
 fo.write(messagescript17)
 fo.write(messagescript18)
 
-print "\033[36m Script Berhasil Di buat!"
-print "\033[32m Cara Save : $ls <----LS"
-Print "\033[0;1m __________________________________"
-print "\033[31m selanjutnya mv -f nama.html /sdcard"
-print "\033[0;1m cari langsung di internal sesuai nama "
+print "Script Berhasil Di buat!"
+print "Cara Save : $ls <----LS"
+print "selanjutnya mv -f nama.html /sdcard"
+print "Cari langsung di internal sesuai nama "
 
 fo.close()
 
