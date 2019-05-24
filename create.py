@@ -31,16 +31,9 @@ print "\033[35m FIGHTER OFC BCA"
 print "\033[35m CyberTrojanIndonesia"
 print "\033[32m FIGHTER OFC CTI"
 print "\033[32m  _______________________________________"
-print
-print
-
 print "\033[31m Version:"
 print "\033[31m	       1.3"
 print "\033[31m________________________________________"
-print
-print
-
-
 print "\033[32m MR.KITSUNE"
 print "\033[32m MR.JHON"
 print "\033[32m MR.BOY"
@@ -50,9 +43,19 @@ print
 print
 
 
+print "\033[36m	 __       __  ________  __    __  ________   ______   __    __   ______   __    __  	"
+print "\033[36m	|  \     /  \|        \|  \  |  \|        \ /      \ |  \  |  \ /      \ |  \  |  \	"
+print "\033[36m	| $$\   /  $$| $$$$$$$$| $$\ | $$ \$$$$$$$$|  $$$$$$\| $$  | $$|  $$$$$$\| $$\ | $$	"
+print "\033[36m	| $$$\ /  $$$| $$__    | $$$\| $$   | $$   | $$__| $$| $$__| $$| $$__| $$| $$$\| $$	"
+print "\033[36m	| $$$$\  $$$$| $$  \   | $$$$\ $$   | $$   | $$    $$| $$    $$| $$    $$| $$$$\ $$	"
+print "\033[36m	| $$\$$ $$ $$| $$$$$   | $$\$$ $$   | $$   | $$$$$$$$| $$$$$$$$| $$$$$$$$| $$\$$ $$	"
+print "\033[36m	| $$ \$$$| $$| $$_____ | $$ \$$$$   | $$   | $$  | $$| $$  | $$| $$  | $$| $$ \$$$$	"
+print "\033[36m	| $$  \$ | $$| $$     \| $$  \$$$   | $$   | $$  | $$| $$  | $$| $$  | $$| $$  \$$$	"
+print "\033[36m	 \$$      \$$ \$$$$$$$$ \$$   \$$    \$$    \$$   \$$ \$$   \$$ \$$   \$$ \$$   \$$	"
+
+
 print "\033[35m TITLE MYA BEBAS"
 print "\033[35m tittle itu judulnya terserah mau apa ^_^"
-print
 print
 
 print "\033[33 HEADING "
@@ -67,7 +70,6 @@ print "\033[44 https://i.ibb.co/rZSdrQT/20190514-173657.png"
 print "\033[44 https://i.ibb.co/bgr86Ct/20190514-173452.png"
 print "\033[44 COPY LALU PASTE OK !!!"
 print
-print
 
 
 print "\033[0;1m BACKGROUND IMAGENYA "
@@ -77,14 +79,11 @@ print "\033[0;1m https://i.gifer.com/embedded/download/3rCL.gif"
 print "\033[0;1m http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
 print "\033[0;1m COPY LALU PASTE OK !!!"
 print
-print
 
 
 print "\033[31m PESANNYA BEBAS "
 print "\033[31m Nah ini Terserah anda ....!!!!"
 print
-print
-
 
 print "\033[31m MACAM TEXTCOLOR "
 print "\033[35m CONTOH "
@@ -94,13 +93,11 @@ print "\033[36m CYAN"
 print "\033[35m BLUE"
 print "\033[0;1m WHITE"
 print
-print
 
 print "\033[36m TUTORIAL Soundcloud"
 print "\033[36m CONTOH"
 print "\033[36m https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "\033[36m _________________________________|         |_________________________________"
-print
 print
 
 
@@ -171,8 +168,8 @@ print
 print
 
 
-title = raw_input("Judul title: ")
-heading = raw_input("Hacked by: ")
+title = raw_input("Title terserah kalian mau apa jga ^_^: ")
+heading = raw_input("Hacked by sih bebas ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
