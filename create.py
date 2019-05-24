@@ -101,7 +101,9 @@ print "\033[36m CONTOH"
 print "\033[36m https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "\033[36m _________________________________|         |_________________________________"
 print
-print"
+print
+
+
 print	"\033[32m						`.-:/`-o`   .yyhmhss-oo+//:...                                                       "
 print   "\033[32m                                         `-:/o`  /mNysyM++M:   `hMoosMs.mN/+yN+Nh.yh-   `-`                                          "" "  
 print   "\033[32m                                   .:+o`dNysyM/  `mMdhdMs-M+ `-`yMooyM/ yN-  `:MdNy`    :Nmhhs+.-`                                      "
