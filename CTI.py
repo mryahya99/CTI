@@ -740,15 +740,8 @@ fo.write(messagescript18)
 
 print "\033[36m Script Berhasil Di buat!"
 print "\033[32m Cara Save : $ls <----LS"
-print
 Print "\033[0;1m __________________________________"
-print
 print "\033[31m selanjutnya mv -f nama.html /sdcard"
 print "\033[0;1m cari langsung di internal sesuai nama "
-Print
-print "JAGA SCRIPT YANG SAYA BUAT ... JANGAN NYEBARIN SC INI"
-print "LO KIRA GAMPANG BUATNYA ?"
-print "SUSAH BROO"
-print "FUCK YANG NYEBAR BIADAB ^_^"
 
 fo.close()
