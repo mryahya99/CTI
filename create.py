@@ -169,45 +169,35 @@ print
 
 
 title = raw_input("Title terserah kalian mau apa jga ^_^: ")
-heading = raw_input("Hacked by sih bebas ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
+TEXT METRIX = raw_input("CONTOH ANONYMOUS: ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 matrix = raw_input ("masukan contoh (Http://terserahanda.com :")
-textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
-youtubeid = raw_input("masukan kode : ")
-
 
 #Open the index
 fo = open("script.html","w")
 
-messagescript1 = """<html><head><title>"""
+messagescript1 = """</title>
+<font class="hk2" style="text-shadow: 1px -1px 8px;" face="tahoma">
+<font color="grey">
+<font size="5"""
 
-messagescript2 = title
+messagescript2 =title 
 
-messagescript3 = """</title></head>
-<body>
-<br>
-<link href='http://fonts.googleapis.com/css?family=Orbitron:700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet' type='text/css'>
-<body background ="""
+messagescript3 =""" rel="stylesheet" type="text/css">
 
-messagescript4 = bgimage
-
-messagescript5 = """ 
 <center>
-<center><font face="Segoe Script" color="gold" font size="2">"""
+<img src="""
+messagescript4 =imagelink
 
-messagescript6 = heading
+messagescript5 =""" >
 
-messagescript7 = """<b></font></center>
-<center>
-<img src=""" 
+<body background="""
+messagescript6 =bgimage
 
-messagescript8 = imagelink
-
-messagescript9 = """ width=500px height=500px>
+messagescript7 = """ >
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
 <style type="text/css">
 h1 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
 .neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
@@ -652,30 +642,30 @@ setInterval(flicker, 100);
 // end  -->
 
 </script>
-<link rel="openid.server" href="https://ibb.co/bXDyfvY" />
+</head>
 <center>
+<br>
 <h1>"""
+messagescript8 = TEXT METRIX
 
-messagescript10 = """ </h1>
+messagescript9 ="""</h1>
+
+<center><font face="Segoe Script" color="cyan" font size="4">"""
+messagescript10 = message
+
+messagescript11 =""" </font><br>
 <div id="matrix" class="auto-style9">"""
-messagescript11 = matrix
 
-messagescript12 ="""</div><br>
-<font face="Segoe Script" color="gold" font size="2">"""
+messagescript12 = matrix
 
-messagescript13 = textcolor
+messagescript13 ="""</div><br>
 
-messagescript14 = """<b></font></center> 
 
-messagescript15 = message 
 
-messagescript16 = """<b></font></center>
 
-<body iframe width="0" height="0" src="http://www.youtube.com/v/"""
 
-messagescript17 = youtubeid
 
-messagescript18 = """&autoplay=1" frameborder="0"></iframe>
+
 
 
 fo.write(messagescript1)
