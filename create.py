@@ -23,7 +23,7 @@ else:
 mess = """\033[31m  ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
           	   / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
 	          | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
- 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ ""
+ 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ """
                                                                                                                                                                                                           a
 
 
@@ -118,7 +118,7 @@ youtubeid = raw_input("youtube kode (MUSIK): ")
 #Open the index
 fo = open("script.html","w")
 
-messagescript1 = """<html><head><title>"""
+messagescript1 = """<html><head><title> 
 
 messagescript2 = title
 
@@ -134,7 +134,7 @@ messagescript4 = bgimage
 
 messagescript5 = """><div class='CenterDiv'>
 <center>
-<h1><center><font color=\"red\" face=Orbitron>"""
+<h1><center><font color=\"red\"face=Orbitron>"""
 
 messagescript6 = heading
 
