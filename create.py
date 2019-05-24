@@ -14,20 +14,91 @@ if sys.platform == "linux2" or sys.platform == "linux":
 	Y = ("\033[33;1m")
 
 	
-mess = """\033[31m  ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
-          	   / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
-	          | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
- 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ """
-                                                                                                                                                                                                          a
-
+mess = """\033[31m ________________________________________________________________
+   ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
+  / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
+ | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
+  \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\                                                                                                                                                                                                       a
+___________________________________________________________________________________"""
 
 print mess
 print "\033[0m 1;36;40m  Created Defacer ^_^"
+print "\033[0m 1;32;40m  ============================="
+print "\033[33;1m SUPPORT"
+print "\033[33;1m BLACK-CYBER-ANONIM"
+print "\033[35m FIGHTER OFC BCA"
+print "\033[35m CyberTrojanIndonesia"
+print "\033[32m FIGHTER OFC CTI"
+print "\033[0m 1;32;40m  _______________________________________"
+
+print "Version:"
+print "	       1.3"
+print "________________________________________"
+
+print " MR.KITSUNE"
+print " MR.JHON"
+print " MR.BOY"
+print " MR.DARKSKY"
+print " MR.MISTER-BLACK"
+print " ____________             ______________"
+print "____________SELAMAT MENCOBA_____________"
+
+
+print "title "
+print "BEBAS"
+
+
+print "heading "
+print "contoh=Mr.DarkSky"
 
 
 
-print mess
-print "Created by Ubaii ID"
+print "imagelink" 
+print "Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
+print "https://i.ibb.co/6DBMgrY/20190514-174726.png"
+print "https://i.ibb.co/rZSdrQT/20190514-173657.png"
+print "https://i.ibb.co/bgr86Ct/20190514-173452.png"
+print "COPY LALU PASTE OK !!!"
+
+
+
+print "bgimage "
+print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
+print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
+print "https://i.gifer.com/embedded/download/3rCL.gif"
+print "http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
+print "COPY LALU PASTE OK !!!"
+
+
+
+print "message "
+print "Nah ini Terserah anda ....!!!!"
+
+
+
+print "MACAM textcolor "
+print "CONTOH "
+print "RED"
+print "GREEN"
+print "CYAN"
+print "BLUE"
+print "WHITE"
+print "BLACK"
+
+
+
+print " TUTORIAL Soundcloud"
+print "CONTOH"
+print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
+print "_________________________________|         |_________________________________"
+
+ print " _______       _____ _____   _______ _    _ _______ ____  _____  _____          _  "    
+ print "|__   __|/\   |  __ \_   _| |__   __| |  | |__   __/ __ \|  __ \|_   _|   /\   | |    " 
+ print "   | |  /  \  | |  | || |      | |  | |  | |  | | | |  | | |__) | | |    /  \  | |     "
+ print "   | | / /\ \ | |  | || |      | |  | |  | |  | | | |  | |  _  /  | |   / /\ \ | |     "
+ print "   | |/ ____ \| |__| || |_     | |  | |__| |  | | | |__| | | \ \ _| |_ / ____ \| |____ "
+ print "   |_/_/    \_\_____/_____|    |_|   \____/   |_|  \____/|_|  \_\_____/_/    \_\______|"
+
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
