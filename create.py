@@ -21,6 +21,7 @@ mess = """\033[31m _____________________________________________________________
   \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\                                                                                                                                                                                                       a
 _____________________________________________________________________________"""
 
+
 print mess
 print "\033[31m  Created Defacer ^_^"
 print "\033[31m  ============================="
@@ -44,12 +45,20 @@ print " ____________             ______________"
 print "____________SELAMAT MENCOBA_____________"
 
 
-print "title "
+print "TITLE "
 print "BEBAS"
+print
+print
+print
+print
 
 
 print "heading "
 print "contoh=Mr.DarkSky"
+print
+print
+print
+print
 
 
 
@@ -71,12 +80,19 @@ print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
 print "https://i.gifer.com/embedded/download/3rCL.gif"
 print "http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
 print "COPY LALU PASTE OK !!!"
+print
+print
+print
+print
 
 
 
 print "message "
 print "Nah ini Terserah anda ....!!!!"
-
+print
+print
+print
+print
 
 
 print "MACAM textcolor "
@@ -87,14 +103,20 @@ print "CYAN"
 print "BLUE"
 print "WHITE"
 print "BLACK"
-
+print
+print
+print
+print
 
 
 print " TUTORIAL Soundcloud"
 print "CONTOH"
 print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "_________________________________|         |_________________________________"
-
+print
+print
+print
+print
 
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
