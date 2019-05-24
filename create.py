@@ -661,27 +661,21 @@ messagescript10 = """ </h1>
 messagescript11 = matrix
 
 messagescript12 ="""</div><br>
-<script language=\"JavaScript\">
-var i=0
-var j=0
-var texteNE, affiche
-var texte=\"<br><br><br><br><br><font face=Orbitron color="""
+<font face="Segoe Script" color="gold" font size="2">"""
 
 messagescript13 = textcolor
 
-messagescript14 = """ <font face="Segoe Script" color="gold" font size="2">"""
+messagescript14 = """<b></font></center> 
 
 messagescript15 = message 
 
 messagescript16 = """<b></font></center>
-<br>
-<br>
-<br>
-<iframe width="0" height="0" src="http://www.youtube.com/v/"""
+
+<body iframe width="0" height="0" src="http://www.youtube.com/v/"""
 
 messagescript17 = youtubeid
 
-messagescript18 = """&autoplay=1" frameborder="0"></iframe>"""
+messagescript18 = """&autoplay=1" frameborder="0"></iframe>
 
 
 fo.write(messagescript1)
