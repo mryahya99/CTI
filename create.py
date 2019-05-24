@@ -98,11 +98,7 @@ print "\033[35m BLUE"
 print "\033[0;1m WHITE"
 print
 
-print "\033[36m TUTORIAL Soundcloud"
-print "\033[36m CONTOH"
-print "\033[36m https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
-print "\033[36m _________________________________|         |_________________________________"
-print
+
 
 
 print	"\033[32m						`.-:/`-o`   .yyhmhss-oo+//:...                                                       "
