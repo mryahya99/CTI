@@ -652,6 +652,7 @@ setInterval(flicker, 100);
 
 </script>
 <link rel="openid.server" href="https://ibb.co/bXDyfvY" />
+<center>
 <h1>Hacked By """
 
 messagescript10 = """ </h1>
