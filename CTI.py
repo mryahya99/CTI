@@ -10,7 +10,7 @@ if sys.platform == "linux2" or sys.platform == "linux":
 	W = ("\033[0;1m")
 	B = ("\033[35m")
 	G = ("\033[32m")
-	glp = ("\033[2m")
+	glp =("\033[2m")
 	Y = ("\033[33;1m")
 
 	
@@ -177,8 +177,9 @@ heading = raw_input("Hacked by sih bebas ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("Warna text (contoh=green): ")
-youtubeid = raw_input("youtube kode (MUSIK): ")
+matrix = raw_input ("masukan contoh (Http://terserahanda.com")
+textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
+SoundCloud = raw_input("masukan kode soundcloudnya Contoh{https://api.soundcloud.com/tracks/298052134/<---NOMERNYA}: ")
 
 
 #Open the index
@@ -194,40 +195,487 @@ messagescript3 = """</title></head>
 <link href='http://fonts.googleapis.com/css?family=Orbitron:700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet' type='text/css'>
-<body bgcolor="#000000" background ="""
+<body background ="""
 
 messagescript4 = bgimage
 
-messagescript5 = """><div class='CenterDiv'>
+messagescript5 = """ 
 <center>
-<h1><center><font color=\"red\" face=Orbitron>"""
+<center><font face="Segoe Script" color="gold" font size="2">"""
 
 messagescript6 = heading
 
-messagescript7 = """<h1></font>
+messagescript7 = """<b></font></center>
 <img src=""" 
 
 messagescript8 = imagelink
 
-messagescript9 = """ width=450px height=340px>
-<body onload="init()"></body>
-<body>
-<div id="bulle"></div>"""
+messagescript9 = """ width=500px height=500px>
+<style type="text/css">
+h1 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
 
-messagescript10 = """
+
+h2 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+
+h3 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+
+
+h4 {color: #FF0000;font-size: 20px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+
+
+.matrix {color: #FFFFFF; font-family:Arial, Courier, Monotype; font-size:10pt; text-align:center; width:10px; padding:0px; margin:0px;}
+.jokitz1{
+	text-align : center;
+	}
+.jokitz2{
+	text-align : center;
+	font-family : Courier;
+	}
+</style>
+<script type="text/javascript">
+
+<!--
+
+//Disable right click script
+
+//visit http://www.rainbow.arch.scriptmania.com/scripts/
+
+var message="Sorry, right-click has been disabled";
+
+///////////////////////////////////
+
+function clickIE() {if (document.all) {(message);return false;}}
+
+function clickNS(e) {if
+
+(document.layers||(document.getElementById&&!document.all)) {
+
+if (e.which==2||e.which==3) {(message);return false;}}}
+
+if (document.layers)
+
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+
+// -->
+
+</script>
+
+<!-- <script language="JavaScript1.2" type="text/javascript">
+
+function ClearError() {return true;}
+
+window.onerror = ClearError;
+
+</script> -->
+
+
+
+
+<script type="text/javascript" language="javascript">
+
+
+
+<!--
+
+var rows=1; // must be an odd number
+
+var speed=10; // lower is faster
+
+var reveal=2; // between 0 and 2 only. The higher, the faster the word appears
+
+var effectalign="center" //enter "center" to center it.
+
+
+
+/***********************************************
+
+* The Matrix Text Effect- by Richard Womersley (http://www.mf2fm.co.uk/rv)
+
+* This notice must stay intact for use
+
+* Visit http://www.dynamicdrive.com/ for full source code
+
+***********************************************/
+
+
+
+
+var w3c=document.getElementById && !window.opera;;
+
+var ie45=document.all && !window.opera;
+
+var ma_tab, matemp, ma_bod, ma_row, x, y, columns, ma_txt, ma_cho;
+
+var m_coch=new Array();
+
+var m_copo=new Array();
+
+window.onload=function() {
+
+	if (!w3c && !ie45) return
+
+  var matrix=(w3c)?document.getElementById("matrix"):document.all["matrix"];
+
+  ma_txt=(w3c)?matrix.firstChild.nodeValue:matrix.innerHTML;
+
+  ma_txt=" "+ma_txt+" ";
+
+  columns=ma_txt.length;
+
+  if (w3c) {
+
+    while (matrix.childNodes.length) matrix.removeChild(matrix.childNodes[0]);
+
+    ma_tab=document.createElement("table");
+
+    ma_tab.setAttribute("border", 0);
+
+    ma_tab.setAttribute("align", effectalign);
+
+    ma_tab.style.backgroundColor="#000000";
+
+    ma_bod=document.createElement("tbody");
+
+    for (x=0; x<rows; x++) {
+
+      ma_row=document.createElement("tr");
+
+      for (y=0; y<columns; y++) {
+
+        matemp=document.createElement("td");
+
+        matemp.setAttribute("id", "Mx"+x+"y"+y);
+
+        matemp.className="matrix";
+
+        matemp.appendChild(document.createTextNode(String.fromCharCode(160)));
+
+        ma_row.appendChild(matemp);
+
+      }
+
+      ma_bod.appendChild(ma_row);
+
+    }
+
+    ma_tab.appendChild(ma_bod);
+
+    matrix.appendChild(ma_tab);
+
+  } else {
+
+    ma_tab='<ta'+'ble align="'+effectalign+'" border="0" style="background-color:#000000">';
+
+    for (var x=0; x<rows; x++) {
+
+      ma_tab+='<t'+'r>';
+
+      for (var y=0; y<columns; y++) {
+
+        ma_tab+='<t'+'d class="matrix" id="Mx'+x+'y'+y+'"> </'+'td>';
+
+      }
+
+      ma_tab+='</'+'tr>';
+
+    }
+
+    ma_tab+='</'+'table>';
+
+    matrix.innerHTML=ma_tab;
+
+  }
+
+  ma_cho=ma_txt;
+
+  for (x=0; x<columns; x++) {
+
+    ma_cho+=String.fromCharCode(32+Math.floor(Math.random()*94));
+
+    m_copo[x]=0;
+
+  }
+
+  ma_bod=setInterval("mytricks()", speed);
+
+}
+
+
+
+function mytricks() {
+
+  x=0;
+
+  for (y=0; y<columns; y++) {
+
+    x=x+(m_copo[y]==100);
+
+    ma_row=m_copo[y]%100;
+
+    if (ma_row && m_copo[y]<100) {
+
+      if (ma_row<rows+1) {
+
+        if (w3c) {
+
+          matemp=document.getElementById("Mx"+(ma_row-1)+"y"+y);
+
+          matemp.firstChild.nodeValue=m_coch[y];
+
+        }
+
+        else {
+
+          matemp=document.all["Mx"+(ma_row-1)+"y"+y];
+
+          matemp.innerHTML=m_coch[y];
+
+        }
+
+        matemp.style.color="#81F2FF";
+
+        matemp.style.fontWeight="bold";
+
+      }
+
+      if (ma_row>1 && ma_row<rows+2) {
+
+        matemp=(w3c)?document.getElementById("Mx"+(ma_row-2)+"y"+y):document.all["Mx"+(ma_row-2)+"y"+y];
+
+        matemp.style.fontWeight="normal";
+
+        matemp.style.color="#00BBFF";
+
+      }
+
+      if (ma_row>2) {
+
+          matemp=(w3c)?document.getElementById("Mx"+(ma_row-3)+"y"+y):document.all["Mx"+(ma_row-3)+"y"+y];
+
+        matemp.style.color="#20FFDA";
+
+      }
+
+      if (ma_row<Math.floor(rows/2)+1) m_copo[y]++;
+
+      else if (ma_row==Math.floor(rows/2)+1 && m_coch[y]==ma_txt.charAt(y)) zoomer(y);
+
+      else if (ma_row<rows+2) m_copo[y]++;
+
+      else if (m_copo[y]<100) m_copo[y]=0;
+
+    }
+
+    else if (Math.random()>0.9 && m_copo[y]<100) {
+
+      m_coch[y]=ma_cho.charAt(Math.floor(Math.random()*ma_cho.length));
+
+      m_copo[y]++;
+
+    }
+
+  }
+
+  if (x==columns) clearInterval(ma_bod);
+
+}
+
+
+
+function zoomer(ycol) {
+
+  var mtmp, mtem, ytmp;
+
+  if (m_copo[ycol]==Math.floor(rows/2)+1) {
+
+    for (ytmp=0; ytmp<rows; ytmp++) {
+
+      if (w3c) {
+
+        mtmp=document.getElementById("Mx"+ytmp+"y"+ycol);
+
+        mtmp.firstChild.nodeValue=m_coch[ycol];
+
+      }
+
+      else {
+
+        mtmp=document.all["Mx"+ytmp+"y"+ycol];
+
+        mtmp.innerHTML=m_coch[ycol];
+
+      }
+
+      mtmp.style.color="#5BEEFF";
+
+      mtmp.style.fontWeight="bold";
+
+    }
+
+    if (Math.random()<reveal) {
+
+      mtmp=ma_cho.indexOf(ma_txt.charAt(ycol));
+
+      ma_cho=ma_cho.substring(0, mtmp)+ma_cho.substring(mtmp+1, ma_cho.length);
+
+    }
+
+    if (Math.random()<reveal-1) ma_cho=ma_cho.substring(0, ma_cho.length-1);
+
+    m_copo[ycol]+=199;
+
+    setTimeout("zoomer("+ycol+")", speed);
+
+  }
+
+  else if (m_copo[ycol]>200) {
+
+    if (w3c) {
+
+      mtmp=document.getElementById("Mx"+(m_copo[ycol]-201)+"y"+ycol);
+
+      mtem=document.getElementById("Mx"+(200+rows-m_copo[ycol]--)+"y"+ycol);
+
+    }
+
+    else {
+
+      mtmp=document.all["Mx"+(m_copo[ycol]-201)+"y"+ycol];
+
+      mtem=document.all["Mx"+(200+rows-m_copo[ycol]--)+"y"+ycol];
+
+    }
+
+    mtmp.style.fontWeight="normal";
+
+    mtem.style.fontWeight="normal";
+
+    setTimeout("zoomer("+ycol+")", speed);
+
+  }
+
+  else if (m_copo[ycol]==200) m_copo[ycol]=100+Math.floor(rows/2);
+
+  if (m_copo[ycol]>100 && m_copo[ycol]<200) {
+
+    if (w3c) {
+
+      mtmp=document.getElementById("Mx"+(m_copo[ycol]-101)+"y"+ycol);
+
+      mtmp.firstChild.nodeValue=String.fromCharCode(160);
+
+      mtem=document.getElementById("Mx"+(100+rows-m_copo[ycol]--)+"y"+ycol);
+
+      mtem.firstChild.nodeValue=String.fromCharCode(160);
+
+    }
+
+    else {
+
+      mtmp=document.all["Mx"+(m_copo[ycol]-101)+"y"+ycol];
+
+      mtmp.innerHTML=String.fromCharCode(160);
+
+      mtem=document.all["Mx"+(100+rows-m_copo[ycol]--)+"y"+ycol];
+
+      mtem.innerHTML=String.fromCharCode(160);
+
+    }
+
+    setTimeout("zoomer("+ycol+")", speed);
+
+  }
+
+  
+
+  //start
+
+var h1 = document.getElementsByTagName("h1")[0],
+
+text = h1.innerText || h1.textContent,
+
+split = [], i, lit = 0, timer = null;
+
+for(i = 0; i < text.length; ++i) {
+
+split.push("<span>" + text[i] + "</span>");
+
+}
+
+h1.innerHTML = split.join("");
+
+split = h1.childNodes;
+
+
+
+var flicker = function() {
+
+lit += 0.01;
+
+if(lit >= 1) {
+
+clearInterval(timer);
+
+}
+
+for(i = 0; i < split.length; ++i) {
+
+if(Math.random() < lit) {
+
+split[i].className = "neon";
+
+} else {
+
+split[i].className = "";
+
+}
+
+}
+
+}
+
+setInterval(flicker, 100);
+
+
+
+}
+
+//strat sec
+
+
+
+// end  -->
+
+</script>
+<link rel="openid.server" href="https://ibb.co/bXDyfvY" />
+<h1>Hacked By """
+
+messagescript10 = """ </h1>
+<div id="matrix" class="auto-style9">"""
+messagescript11 = matrix
+
+messagescript12 ="""</div><br>
 <script language=\"JavaScript\">
 var i=0
 var j=0
 var texteNE, affiche
 var texte=\"<br><br><br><br><br><font face=Orbitron color="""
 
-messagescript11 = textcolor
+messagescript13 = textcolor
 
-messagescript12 = """ size=4>"""
+messagescript14 = """ size=4>"""
 
-messagescript13 = message 
+messagescript15 = message 
 
-messagescript14 = """<br><br></font><br></b></div>\"
+messagescript16 = """<br><br></font><br></b></div>\"
 var ie = (document.all);
 var ne = (document.layers); 
 function init(){
@@ -263,11 +711,11 @@ return
 <br>
 <br>
 <br>
-<iframe width="0" height="0" src="http://www.youtube.com/v/"""
+<iframe width="0" height="0" scrolling="no" frameborder="no" allow="autoplay" src="https://api.soundcloud.com/tracks/"""
 
-messagescript15 = youtubeid
+messagescript17 = SoundCloud
 
-messagescript16 = """&autoplay=1" frameborder="0"></iframe>"""
+messagescript18 = """/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
 
 
 fo.write(messagescript1)
@@ -286,10 +734,22 @@ fo.write(messagescript13)
 fo.write(messagescript14)
 fo.write(messagescript15)
 fo.write(messagescript16)
-print "Script Berhasil Di buat!"
-print "Cara Save : $ls"
-print "selanjutnya mv -f nama.html /sdcard"
-print "cari langsung di internal sesuai nama "
+fo.write(messagescript17)
+fo.write(messagescript18)
+
+print "\033[36m Script Berhasil Di buat!"
+print "\033[32m Cara Save : $ls <----LS"
+print
+Print "\033[0;1m __________________________________"
+print
+print "\033[31m selanjutnya mv -f nama.html /sdcard"
+print "\033[0;1m cari langsung di internal sesuai nama "
+Print
+print "JAGA SCRIPT YANG SAYA BUAT ... JANGAN NYEBARIN SC INI"
+print "LO KIRA GAMPANG BUATNYA ?"
+print "SUSAH BROO"
+print "FUCK YANG NYEBAR BIADAB ^_^"
+
 	
 
 fo.close()
