@@ -177,7 +177,6 @@ heading = raw_input("Hacked by sih bebas ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-matrix = raw_input ("masukan contoh (Http://terserahanda.com")
 textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
 SoundCloud = raw_input("masukan kode soundcloudnya Contoh(/tracks/298052134/<---NOMERNYA): ")
 
@@ -287,11 +286,10 @@ fo.write(messagescript13)
 fo.write(messagescript14)
 fo.write(messagescript15)
 fo.write(messagescript16)
-fo.write(messagescript17)
-fo.write(messagescript18)
+
 
 print "Script Berhasil Di buat!"
-print "Cara Save : $ls <----LS"
+print "Cara Save : $ls"
 print "selanjutnya mv -f nama.html /sdcard"
 print "Cari langsung di internal sesuai nama "
 
