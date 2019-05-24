@@ -171,7 +171,7 @@ print
 title = raw_input("Title terserah kalian mau apa jga ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
-TEXT METRIX = raw_input("CONTOH ANONYMOUS: ")
+textmetrix = raw_input("CONTOH ANONYMOUS: ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 matrix = raw_input ("masukan contoh (Http://terserahanda.com :")
 
@@ -646,7 +646,7 @@ setInterval(flicker, 100);
 <center>
 <br>
 <h1>"""
-messagescript8 = TEXT METRIX
+messagescript8 = textmetrix
 
 messagescript9 ="""</h1>
 
