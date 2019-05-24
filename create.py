@@ -1,13 +1,9 @@
-import 
-urllib2 
-cookielib 
-random
-re 
-sys  
-socket 
-time 
-httplib 
-ssl
+#CREATED, CODING, AUTHOR BY: CYBER-TROJAN-INDONESIA/BLACK-CYBER-ANONIM-TEAM
+#TEAM SUPPORT: MARIANAS WEB TEAM 2K05
+#VERSION: SIMPEL TOOLS FOR CREATE DEFACE #PYTHON PROGRAM
+#MAU NGAPAIN LU? MAU NIRU YA? HAHA, PAKAI OTAK LU ANJENG, GINI SIMPEL NYA MASAK NIRU, USE YOUR BRAIN BITCH, FUCK YOU UNTUK ORANG YANG NIRU SC INI
+
+import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
 if sys.platform == "linux2" or sys.platform == "linux":
 	R = ("\033[31m")
@@ -16,11 +12,18 @@ if sys.platform == "linux2" or sys.platform == "linux":
 	G = ("\033[32m")
 	glp = ("\033[2m")
 	Y = ("\033[33;1m")
+else:
+	R = ""
+	W = ""
+	Y = ""
+	B = ""
+	G = ""
+	glp = ""
 	
-mess = """\033[31m ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
+mess = """\033[31m  ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
           	   / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
 	          | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
- 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ """
+ 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ ""
                                                                                                                                                                                                           a
 
 
