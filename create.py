@@ -202,6 +202,7 @@ messagescript5 = """
 messagescript6 = heading
 
 messagescript7 = """<b></font></center>
+<center>
 <img src=""" 
 
 messagescript8 = imagelink
@@ -652,8 +653,8 @@ setInterval(flicker, 100);
 
 </script>
 <link rel="openid.server" href="https://ibb.co/bXDyfvY" />
-<center>
-<h1>Hacked By """
+<head>
+<h1>"""
 
 messagescript10 = """ </h1>
 <div id="matrix" class="auto-style9">"""
