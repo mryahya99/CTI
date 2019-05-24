@@ -31,30 +31,27 @@ print "\033[35m FIGHTER OFC BCA"
 print "\033[35m CyberTrojanIndonesia"
 print "\033[32m FIGHTER OFC CTI"
 print "\033[32m  _______________________________________"
-
-print "Version:"
-print "	       1.3"
-print "________________________________________"
-
-print " MR.KITSUNE"
-print " MR.JHON"
-print " MR.BOY"
-print " MR.DARKSKY"
-print " MR.MISTER-BLACK"
-print " ____________             ______________"
-print "____________SELAMAT MENCOBA_____________"
-
-
-print "TITLE "
-print "BEBAS"
 print
 print
 print
 print
 
+print "\033[31m Version:"
+print "\033[31m	       1.3"
+print "\033[31m________________________________________"
+print
+print
+print
 
-print "heading "
-print "contoh=Mr.DarkSky"
+print "\033[32m MR.KITSUNE"
+print "\033[32m MR.JHON"
+print "\033[32m MR.BOY"
+print "\033[32m MR.DARKSKY"
+print "\033[32m MR.MISTER-BLACK"
+print "\033[32m____________SELAMAT MENCOBA_____________"
+print
+print
+print
 print
 print
 print
@@ -62,24 +59,16 @@ print
 
 
 
-print "imagelink" 
-print "Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
-print "https://i.ibb.co/6DBMgrY/20190514-174726.png"
-print "https://i.ibb.co/rZSdrQT/20190514-173657.png"
-print "https://i.ibb.co/bgr86Ct/20190514-173452.png"
-print "COPY LALU PASTE OK !!!"
+print "\033[35m TITLE MYA BEBAS"
+print "\033[35m BEBAS"
+print
 print
 print
 print
 
 
-
-print "bgimage "
-print "Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
-print "https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
-print "https://i.gifer.com/embedded/download/3rCL.gif"
-print "http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
-print "COPY LALU PASTE OK !!!"
+print "\033[2m HEADING "
+print "\033[2m contoh=Mr.DarkSky"
 print
 print
 print
@@ -87,22 +76,46 @@ print
 
 
 
-print "message "
-print "Nah ini Terserah anda ....!!!!"
+print "\033[2m IMAGE_LINK" 
+print "\033[2m Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
+print "\033[2m https://i.ibb.co/6DBMgrY/20190514-174726.png"
+print "\033[2m https://i.ibb.co/rZSdrQT/20190514-173657.png"
+print "\033[2m https://i.ibb.co/bgr86Ct/20190514-173452.png"
+print "\033[2m COPY LALU PASTE OK !!!"
+print
+print
+print
+
+
+
+print "\033[0;1m BACKGROUND IMAGENYA "
+print "\033[0;1m Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
+print "\033[0;1m https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
+print "\033[0;1m https://i.gifer.com/embedded/download/3rCL.gif"
+print "\033[0;1m http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
+print "\033[0;1m COPY LALU PASTE OK !!!"
 print
 print
 print
 print
 
 
-print "MACAM textcolor "
+
+print "\033[31m PESANNYA BEBAS "
+print "\033[31m Nah ini Terserah anda ....!!!!"
+print
+print
+print
+print
+
+
+print "MACAM TEXTCOLOR "
 print "CONTOH "
-print "RED"
-print "GREEN"
-print "CYAN"
-print "BLUE"
-print "WHITE"
-print "BLACK"
+print "\033[31m RED"
+print "\033[32m GREEN"
+print "\033[36m CYAN"
+print "\033[35m BLUE"
+print "\033[0;1m WHITE"
 print
 print
 print
