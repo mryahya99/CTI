@@ -69,18 +69,18 @@ print
 
 print "\033[44 IMAGE_LINK" 
 print "\033[44 Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
-print "\033[44 https://i.ibb.co/6DBMgrY/20190514-174726.png"
-print "\033[44 https://i.ibb.co/rZSdrQT/20190514-173657.png"
-print "\033[44 https://i.ibb.co/bgr86Ct/20190514-173452.png"
+print "\033[44 --https://i.ibb.co/6DBMgrY/20190514-174726.png"
+print "\033[44 --https://i.ibb.co/rZSdrQT/20190514-173657.png"
+print "\033[44 --https://i.ibb.co/bgr86Ct/20190514-173452.png"
 print "\033[44 COPY LALU PASTE OK !!!"
 print
 
 
 print "\033[0;1m BACKGROUND IMAGENYA "
 print "\033[0;1m Nah ini buat Background ......nyarinya yg GIF......SAYA KASIH ^_^"
-print "\033[0;1m https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
-print "\033[0;1m https://i.gifer.com/embedded/download/3rCL.gif"
-print "\033[0;1m http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
+print "\033[0;1m --https://media.giphy.com/media/rWY9ySfjytitq/giphy.gif"
+print "\033[0;1m --https://i.gifer.com/embedded/download/3rCL.gif"
+print "\033[0;1m --http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g8wA1nbUShY/s1600/blue-matrix-animated.gif"
 print "\033[0;1m COPY LALU PASTE OK !!!"
 print
 
