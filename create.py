@@ -33,59 +33,41 @@ print "\033[32m FIGHTER OFC CTI"
 print "\033[32m  _______________________________________"
 print
 print
-print
-print
 
 print "\033[31m Version:"
 print "\033[31m	       1.3"
 print "\033[31m________________________________________"
 print
 print
-print
+
 
 print "\033[32m MR.KITSUNE"
 print "\033[32m MR.JHON"
 print "\033[32m MR.BOY"
 print "\033[32m MR.DARKSKY"
 print "\033[32m MR.MISTER-BLACK"
-print "\033[32m____________SELAMAT MENCOBA_____________"
 print
 print
-print
-print
-print
-print
-print
-
 
 
 print "\033[35m TITLE MYA BEBAS"
-print "\033[35m BEBAS"
-print
-print
-print
-print
-
-
-print "\033[2m HEADING "
-print "\033[2m contoh=Mr.DarkSky"
-print
-print
+print "\033[35m tittle itu judulnya terserah mau apa ^_^"
 print
 print
 
-
-
-print "\033[2m IMAGE_LINK" 
-print "\033[2m Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
-print "\033[2m https://i.ibb.co/6DBMgrY/20190514-174726.png"
-print "\033[2m https://i.ibb.co/rZSdrQT/20190514-173657.png"
-print "\033[2m https://i.ibb.co/bgr86Ct/20190514-173452.png"
-print "\033[2m COPY LALU PASTE OK !!!"
-print
-print
+print "\033[33 HEADING "
+print "\033[33 contoh=Mr.DarkSky"
 print
 
+
+print "\033[44 IMAGE_LINK" 
+print "\033[44 Nah kalo ini nyari nya kalo bisa PNG soalnya Backgroundnya transparnt"
+print "\033[44 https://i.ibb.co/6DBMgrY/20190514-174726.png"
+print "\033[44 https://i.ibb.co/rZSdrQT/20190514-173657.png"
+print "\033[44 https://i.ibb.co/bgr86Ct/20190514-173452.png"
+print "\033[44 COPY LALU PASTE OK !!!"
+print
+print
 
 
 print "\033[0;1m BACKGROUND IMAGENYA "
@@ -96,21 +78,16 @@ print "\033[0;1m http://2.bp.blogspot.com/-C8nV9ht6q0g/VimdR0xKhAI/AAAAAAAAAFI/g
 print "\033[0;1m COPY LALU PASTE OK !!!"
 print
 print
-print
-print
-
 
 
 print "\033[31m PESANNYA BEBAS "
 print "\033[31m Nah ini Terserah anda ....!!!!"
 print
 print
-print
-print
 
 
-print "MACAM TEXTCOLOR "
-print "CONTOH "
+print "\033[31m MACAM TEXTCOLOR "
+print "\033[35m CONTOH "
 print "\033[31m RED"
 print "\033[32m GREEN"
 print "\033[36m CYAN"
@@ -118,18 +95,79 @@ print "\033[35m BLUE"
 print "\033[0;1m WHITE"
 print
 print
+
+print "\033[36m TUTORIAL Soundcloud"
+print "\033[36m CONTOH"
+print "\033[36m https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
+print "\033[36m _________________________________|         |_________________________________"
 print
+print"
+print	"\033[32m						`.-:/`-o`   .yyhmhss-oo+//:...                                                       "
+print   "\033[32m                                         `-:/o`  /mNysyM++M:   `hMoosMs.mN/+yN+Nh.yh-   `-`                                          "" "  
+print   "\033[32m                                   .:+o`dNysyM/  `mMdhdMs-M+ `-`yMooyM/ yN-  `:MdNy`    :Nmhhs+.-`                                      "
+print   "\033[32m                            `-:+hmyso/ hMdmmy-   /Mo:yNy+Nmhdh:dy  .dy `sddyooMmN:.    :M+``ydoN/  :-                                  "
+print   "\033[32m                         `/ohNy+.hMhhh/`:mdomhh.   +:`:-``````` `    ``   `.---/.osy.   .md:```dNs/+M+.ds/.                             "
+print   "\033[32m                      ./sdo+/:Ny  :hNsyhh::o````                                          `+yh+ .+ohMm/yMysymy.-                         "
+print   "\033[32m                  `:-:Nhooys  +M+  `:/:.`                                                    `` -syyo./MhhhhMosNds:.                     "
+print   "\033[32m             `./s`yN+NmhsyM: .s-     `:.                  ``.-`.------`-.``                 `:.      os-yyM+yNNooyh+`.                  "
+print   "\033[32m           .hmmhM+`sNo/yhho`       `/s.          `. // -ddyyhN-+NhssmN/Nhyydd./+/-.`         `o+`      `:+: dNosh-./ddh+.               "
+print   "\033[32m          .yNhyN/+Ns:dh./.`        :hh`      .-/ ody`yM--Mmyydm-dMdyydyoM:``mm-mNsshms//-`     `hh:          -shho oNNy+hNs           "
+print   "\033[32m          `:ym+/- :s+.`          `smM-    `ohhys-mN` .My.hM/-.. /M+``` yM+:/MoyMdmhdm--oNmyo.   .Nms.          `-:-modNhdy.            "  
+print   "\033[32m             oM+                .hNMN     /MyshhNoMs+sNm+-h-    `:.    :+oosh.yd:Nh+.  +M+-/.    NMNd-             . ymo.               " 
+print   "\033[32m             `+.               `dmMMMo    `yyoohN:oy+:-.`                     `` -+o  sNs       +MMMmm.               --                 "
+print   "\033[32m                               +mNMMMMh:`   +hy/-                                     --     `:yMMMMNNo                                  "
+print   "\033[32m                               omMMMMMMMds:```          `.-:/++oooooooo++/:-.`            `:sdMMMMMMMNs                                  "
+print   "\033[32m                               +oNMMMMMMMMMmy/.    `-/shmNMMMMMMMMMMMMMMMMMMNmdy+-`    ./ymMMMMMMMMMMso                                  "
+print   "\033[32m                               `+omMMMMMMMMMMMNy: `hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd. -ymMMMMMMMMMMMms+`                                  "
+print   "\033[32m                                :oyNMMMMMMMMMMMMy`:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/`sNMMMMMMMMMMMNyo:                                    "
+print   "\033[32m                                  `/oyNMMMMMMMMMMMy NMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`oMMMMMMMMMMMNho/`                                     "
+print   "\033[32m                                    `/sdMMMMMMMMMMM.mMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`MMMMMMMMMMMds/.                                       "
+print   "\033[32m                                      .syMMMMMMMMMN:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/mMMMMMMMMMhs.                                         "
+print   "\033[32m                                        sdMMMMMMMMymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyMMMMMMMMds`                                          "
+print   "\033[32m                                        `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNM`                                           "
+print   "\033[32m                                         mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNN                                            "
+print   "\033[32m                                         sdNMMMMMNmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmNMMMMMNdy                                            "
+print   "\033[32m                                         `oyyyyyo+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo+yyyyyo`                                            "
+print   "\033[32m                                           `-:+sdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMds+:-`                                              "
+print   "\033[32m                                          `ohmmmmmmmNNMMMNmmmNMMMMMMMMMMNmmmNMMMNNNmmmmmmho`                                             "
+print   "\033[32m                                          ohdNMdyyyyhyhddhyssysoyNMMNhosyssyhhhhyhyysydMNdds                                             "
+print   "\033[32m    -/oodm/                               `dsmNs.         .-/+/://-os-//:/+/-.         .ommsm.                               +o:.```/o-   "
+print   "\033[32m  -dMNhymMo                               soNMs:               .:`    `:-               -yMNoy                               mMMMMMMMN-   "
+print   "\033[32m  NM+   sMy                               dsmMh+               -.`:oo:`.-               /hMmsm                              oMM-+Md..`    "
+print   "\033[32m /Md   /hMd                               hdoNMh/.          -os-.do``+d.-so:          ./hMN+dd                              +MM.sMs       "
+print   "\033[32m /Md   +yys                               /Mh-dmMdy+/::/+shmy/- d:    -d`-/smds+////+yhMmd:yMo                              +MMMMMNdh-    "
+print   "\033[32m .` .hmNMN:                               /NyhNNNMMMMMMmdhymMh+y  ``  soyMmhhdmMMMMMMNNNdsN+                               oy+--:/yNs    "
+print   "\033[32m `:-`MM/.`                                 `sddMMMMMMMMMMMMMMsN+ .mm- /MsNMMMMMMMMMMMMMmds.                               `hdNNNNdh/     "
+print   "\033[32m :Mm yMs `-.                                 `/sssyyhNMMMMMMMMMd`dMMm`hMMMMMMMMMNhyyyss/`                                 +o.`--/sNd     "
+print   "\033[32m  hMhyMMNNms                                      `+s`/dMMMMMMMMmNMMNmMMMMMMMMd/`so`                                     -MN`oNNdo.`     "
+print   "\033[32m  `+yhhds.-+:                                       N-`dNNNNMMMMNMMMMNMMMMNNNNm`.M`                                      dM+.NN+mM+      "
+print   "\033[32m     `-hmymMN-                                     -N.ohmm+mmmNMyMMMMyMNmmm+mmys`m:                                     `MM+hMo`NM-      "
+print   "\033[32m    ymNNMMsoMm.                                    hNhyoMmoMd+MmomyymodNodMsdMohhNd`                                   ::/hmMh`hMs       "
+print   "\033[32m    :+:.+Md`sMd`                                  -MMMmyNydMshMhdMsoMmyMdoMmsMymMMM:                                  /Nm.``-`-hh`       "
+print   "\033[32m     -md.hMmNNd+`                                  hMMMs/+hM:dM+MM--MM+Mm-Md//oMMMd`                                 /NN-:my /my`        "
+print   "\033[32m      oMNNdys:smd.                                 .mMMd/+-d-+M-Nm  dN.Mo.d:/:hMMm.                                 /NM+:NN::NN-         "
+print   "\033[32m       -:--hNNNdMm-                                 .mMNyhh`  :`:s  o/`:  `hhyNMm-                                 `ydmNNMs+NN:          "
+print   "\033[32m         -NMhNN:/mN+                                 .mMmhM`+`-.--:---.-`+`NhmMm-                                `yy/-.yddmdy.           "
+print   "\033[32m         .NM::mN/.hm:                                 .dMNm+ds+h+m/:m/d/hhodNMm-                                -dMhmmy/-:.`             "
+print   "\033[32m          :mN+-o- .:/h/`                               .hMMdNmsMhM+/MhMsNmmMMd.                               ..mM+ .+hNNNo              "
+print   "\033[32m           .hMo `ydmNdNh:                               `yMmhmdNmMysMmMhNhmMy`                              `-hNMM.    -:-               "
+print   "\033[32m            `:./hMmMm:/dNy-                               oNmmsyydhydyhsmdNo`                             `/dmssmMd/`                    "
+print   "\033[32m              `hd+oMMNyhMm/                                :mMNNMhmmhMNNNm/                             `+dNyyNmsodMm+                   "
+print   "\033[32m                ` NMs+hd+`   `:`                            .yddhyssyhddy.                            .:mMd-  -yNNy+s.                   "
+print   "\033[32m                  /mN+       +Nms-`                           :so+:-/os:                           ./hmyomNs. `:mNh-                    " 
+print   "\033[32m                   `/.        :NMNdo.                                                           `:ymmyyMmoyNmohNh:                       "
+print   "\033[32m                             /mNs-od--o:.                                                   `...dMMy.  /mMy:dNy:                         "
+print   "\033[32m                          `yhMm/   ./NNmmho:.                                            `:sdNm--/NN+  `sMm `.                           "
+print   "\033[32m                          `+so.   .NMMd:/oNMh:yo:.``                               `-::hyhMd+oMN- :mMy`:my.                              "
+print   "\033[32m                                 oMNyMMmhMN:NMhmmmdy-//-.`````..`    `  ``..-     .NM/mMMo   oMN/..dNo `                                "
+print   "\033[32m                                .hm:/MM+++-dMy  .sMN.ydMM/dmddMMhhh+odssdmmMM-     oMm:MM/    +NNd```                                   "
+print   "\033[32m                                     `sNmh-sMN.  `mMo  :MM`oMN///yMN-sMMm+-.dMs     `mMsoMN.    `.                                       "
+print   "\033[32m                                       `-/.dNNhyosMN.``yMd yMMmmmNMN oMM`   +MN`     hMN`hh/                                             "
+print   "\033[32m                                            `-/oydNs+ddMN::mMs...oMN.+MM    .NMd-    ++.                                                 "
+print   "\033[32m                                                    .::-` shs.   .dNh:mm.    .//.                                                        "
+print    
 print
 
-
-print " TUTORIAL Soundcloud"
-print "CONTOH"
-print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
-print "_________________________________|         |_________________________________"
-print
-print
-print
-print
 
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
