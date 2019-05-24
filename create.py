@@ -178,7 +178,7 @@ imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
 textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
-SoundCloud = raw_input("masukan kode soundcloudnya Contoh(/tracks/298052134/<---NOMERNYA): ")
+youtubeid = raw_input("masukan kode : ")
 
 
 #Open the index
@@ -263,11 +263,11 @@ return
 <br>
 <br>
 <br>
-<iframe width="0" height="0" scrolling="no" frameborder="no" allow="autoplay" src="https://api.soundcloud.com/tracks/"""
+<iframe width="0" height="0" src="http://www.youtube.com/v/"""
 
-messagescript15 = SoundCloud
+messagescript15 = messagescript15 = youtubeid
 
-messagescript16 = """/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf" ></iframe></body>
+messagescript16 =  """&autoplay=1" frameborder="0"></iframe>"""
 
 
 fo.write(messagescript1)
