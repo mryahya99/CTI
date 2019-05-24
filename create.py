@@ -1,23 +1,40 @@
-#!/usr/bin/python
+import 
+urllib2 
+cookielib 
+random
+re 
+sys  
+socket 
+time 
+httplib 
+ssl
 
-mess = """  ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
-           / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
-	  | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
- 	   \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ 
-  ""                                                                                                                                                                                                          a
+if sys.platform == "linux2" or sys.platform == "linux":
+	R = ("\033[31m")
+	W = ("\033[0;1m")
+	B = ("\033[35m")
+	G = ("\033[32m")
+	glp = ("\033[2m")
+	Y = ("\033[33;1m")
+	
+mess = """\033[31m ___  _  _ _ __   __   ___ _____ ___     _   _  _ ___    ___  ___   _   
+          	   / _ \| \| | |\ \ / /  / __|_   _|_ _|   /_\ | \| |   \  | _ )/ __| /_\  
+	          | (_) | .` | |_\ V /  | (__  | |  | |   / _ \| .` | |) | | _ \ (__ / _ \ 
+ 	           \___/|_|\_|____|_|    \___| |_| |___| /_/ \_\_|\_|___/  |___/\___/_/ \_\ """
+                                                                                                                                                                                                          a
 
 
 print mess
-print "Created Defacer ^_^"
+print "\033[0m 1;36;40m  Created Defacer ^_^"
 
 
-print "============================="
-print "SUPPORT"
-print "BLACK-CYBER-ANONIM"
-print "FIGHTER OFC BCA"
-print "CyberTrojanIndonesia"
-print "FIGHTER OFC CTI"
-print "_______________________________________"
+print "\033[0m 1;32;40m  ============================="
+print "\033[33;1m SUPPORT"
+print "\033[33;1m BLACK-CYBER-ANONIM"
+print "\033[35m FIGHTER OFC BCA"
+print "\033[35m CyberTrojanIndonesia"
+print "\033[32m FIGHTER OFC CTI"
+print "\033[0m 1;32;40m  _______________________________________"
 
 print "Version:"
 print "	       1.3"
@@ -64,7 +81,7 @@ print "Nah ini Terserah anda ....!!!!"
 
 
 
-print "textcolor "
+print "MACAM textcolor "
 print "CONTOH "
 print "RED"
 print "GREEN"
@@ -75,7 +92,7 @@ print "BLACK"
 
 
 
-print "Soundcloud"
+print " TUTORIAL Soundcloud"
 print "CONTOH"
 print "https://api.soundcloud.com/tracks/298052134/stream?client_id=a3e059563d7fd3372b49b37f00a00bcf"
 print "_________________________________|         |_________________________________"
