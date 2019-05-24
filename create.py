@@ -177,9 +177,9 @@ heading = raw_input("Hacked by sih bebas ^_^: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-matrix = raw_input ("masukan contoh (Http://terserahanda.com")
+matrix = raw_input ("masukan contoh (Http://terserahanda.com :")
 textcolor = raw_input("WARNA TEKSNYA (contoh:green : ")
-SoundCloud = raw_input("masukan kode soundcloudnya Contoh{https://api.soundcloud.com/tracks/298052134/<---NOMERNYA}: ")
+youtubeid = raw_input("masukan kode : ")
 
 
 #Open the index
